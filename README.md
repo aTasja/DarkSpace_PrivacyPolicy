@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/aTasja/DarkSpace_PrivacyPolicy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. The term “personal information” as used herein is defined as any information that identifies or may be used to identify, contact, or search for the person to whom such information relates. The personal information we collect will be subject to this privacy policy, as amended from time to time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. We do not request your email address, telephone number or any information about you.
 
-### Markdown
+3. We do not sell content.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. We do not require registration.
 
-```markdown
-Syntax highlighted code block
+5. The security of your personal information will not be compromised.
 
-# Header 1
-## Header 2
-### Header 3
+6. We do not request location information through our mobile app.
 
-- Bulleted
-- List
+7. We do not send email newsletters.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Политика конфиденциальности
+1. Термин “личная информация”, используемый в настоящем документе, определяется как любая информация, которая идентифицирует или может использоваться для идентификации, связи или поиска человека, к которому такая информация относится. Личная информация, которую мы собираем, будет являться предметом настоящей политики конфиденциальности, с вносимыми время от времени поправками.
 
-[Link](url) and ![Image](src)
-```
+2. Мы не запрашиваем Ваш адрес электронной почты, телефон или какую нибудь информацию о Вас.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3. Мы не продаем контент.
 
-### Jekyll Themes
+4. Мы не требуем регистрации.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aTasja/DarkSpace_PrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5. Безопасность Вашей персональной информации не будет нарушена.
 
-### Support or Contact
+6. Мы не просим информацию о местоположении через наше мобильное приложение.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+7. Мы не отправляем на электронную почту рассылку новостей.
+
+## Contacts / Контакты
+
+e-mail / адрес эл.почты: shatova_app@mail.ru
